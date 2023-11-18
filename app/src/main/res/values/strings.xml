@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EffectiveMobTest</string>
+
+    <string name="begin_money">от %1$s ₽</string>
+    <string name="rating">%1$s %2$s</string>
+    <string name="date">%1$s-%2$s</string>
+    <string name="money">%1$s ₽</string>
+    <string name="days">%1$s ночей</string>
+</resources>
